@@ -1,0 +1,73 @@
+.hero-container {
+  position: relative;
+  margin-bottom: 147px;
+}
+.hero {
+  margin: 0;
+  padding: 0;
+  margin-top: 54px;
+  padding: 45px 0px 101px 86px;
+  background-image: url(../../assets/images/hero.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 21px;
+}
+.hero-heading {
+  margin: 0;
+  padding: 0;
+  width: 337px;
+  font-weight: 400;
+  font-size: 61px;
+  line-height: 67px;
+
+  color: #c9ac8c;
+}
+.hero-form {
+  margin: 0 auto;
+  padding: 0;
+  position: absolute;
+  top: 300px;
+  left: 90px;
+  padding-top: 40px;
+  padding-bottom: 36px;
+  width: 1120px;
+  background: #191919;
+  box-shadow: 0px 4px 77px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  justify-content: center;
+}
+.hero-form-title {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 13px;
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 34px;
+  color: #c9ac8c;
+  text-align: center;
+}
+.form-box {
+  margin: 0;
+  padding: 0;
+  margin-left: 200px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.hero-input {
+  padding: 17px 0 14px 28px;
+  background: none;
+  border: none;
+  background: #404040;
+  border-radius: 15px;
+  width: 710px;
+}
+.hero-btn {
+  border: none;
+  padding: 15px 48px 15px 68px;
+  background: #c9ac8c;
+  border-radius: 15px;
+  background-image: url(../../assets/images/search.svg);
+  background-repeat: no-repeat;
+  background-position: top 10px left 37px;
+}
